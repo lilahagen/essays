@@ -84,16 +84,20 @@ The world’s a huge thing. It is a great price </br>
  for a small vice. </br>
 
 **DESDEMONA** </br>
-In troth, I think thou wouldst not. </br>
+In [troth](https://www.shakespeareswords.com/Public/GlossaryHeadword.aspx?headwordId=5555), I think thou wouldst not. </br>
 
 **EMILIA** </br>
- In troth, I think I should, and undo ’t when I </br>
+ In [troth](https://www.shakespeareswords.com/Public/GlossaryHeadword.aspx?headwordId=5555), I think I should, and undo ’t when I </br>
  had done ⟨it.⟩ Marry, I would not do such a thing for </br>
  a joint ring, nor for measures of lawn, nor for </br>
  gowns, petticoats, nor caps, nor any petty exhibition. </br>
  But for the whole world—⟨’Uds pity!⟩ Who </br>
- would not make her husband a cuckold to make </br>
+ would not make her husband a [cuckold](https://www.shakespeareswords.com/Public/Glossary.aspx?Id=2786) to make </br>
  him a monarch? I should venture purgatory for ’t. </br>
+ 
+.ve-media grid
+    - wc:Othello_-_dix-sept_maquettes_de_costumes,_pour_une_reprise_non_identifiée_(début_20e_s.)_-_par_Charles_Bétout,_Marcel_Multzer_-_btv1b10521860h_(05_of_18).jpg
+    - wc:Othello_-_dix-sept_maquettes_de_costumes,_pour_une_reprise_non_identifiée_(début_20e_s.)_-_par_Charles_Bétout,_Marcel_Multzer_-_btv1b10521860h_(16_of_18).jpg
 
 **DESDEMONA**  </br>
 Beshrew me if I would do such a wrong </br>
@@ -108,6 +112,8 @@ Why, the wrong is but a wrong i’ th’ world; </br>
 **DESDEMONA** </br>
 I do not think there is any such woman. </br>
 
+.ve-media wc:Desdemona_by_W.Paget.jpg width="70%" right
+
 **EMILIA** </br>
 Yes, a dozen; and as many to th’ vantage as</br>
  would store the world they played for. </br>
@@ -117,7 +123,7 @@ But I do think it is their husbands’ faults </br>
  Or else break out in peevish jealousies, </br>
  Throwing restraint upon us. Or say they strike us, </br>
  Or scant our former having in despite. </br>
- Why, we have galls, and though we have some grace, </br>
+ Why, we have [galls](https://www.shakespeareswords.com/Public/GlossaryHeadword.aspx?headwordId=17559), and though we have some grace, </br>
  Yet have we some revenge. Let husbands know </br>
  Their wives have sense like them. They see, and </br>
  smell, </br>
