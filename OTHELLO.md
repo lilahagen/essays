@@ -1,9 +1,9 @@
+# OTHELLO ACT 4 SCENE 3
+
 COLOR CODE:
   *<p style="color:hotpink; background-color:lavenderblush">* SHAKESPEARE NOTES
     *<p style="color:darkseagreen; background-color:honeydew">* WORDS & WORD PLAY
     *<p style="color:mediumpurple; background-color:lavender">* THEMATIC NOTES
-        
-
 
 .ve-media wc:Chassériau_-_Othello_Suite,_No._8_(Act_4,_Scene_3_Desdemona_and_Emilia),_1976.19a.jpg width="70%"  right 
 
@@ -21,7 +21,7 @@ COLOR CODE:
  Lay by these. </br>
 *Sing willow, willow, willow.*  <p>
 
-.ve-media https://www.youtube.com/watch?v=LFaUBvt2nPY autoplay start=126 end=180 width="80%"
+.ve-media https://www.youtube.com/watch?v=LFaUBvt2nPY autoplay start=126 end=180
     
   *<p style="color:hotpink; background-color:lavenderblush">* The willow song is an Elizabethan folk song, originally published in 1583 in a book of lute music. The original song was about a man who dies because of his lover's betrayal, but Shakespeare changed the victim of the song from a man to a woman.
 
@@ -97,7 +97,10 @@ In [troth](https://www.shakespeareswords.com/Public/GlossaryHeadword.aspx?headwo
  
 .ve-media grid
     - wc:Othello_-_dix-sept_maquettes_de_costumes,_pour_une_reprise_non_identifiée_(début_20e_s.)_-_par_Charles_Bétout,_Marcel_Multzer_-_btv1b10521860h_(05_of_18).jpg
+    - wc:Othello_-_dix-sept_maquettes_de_costumes,_pour_une_reprise_non_identifiée_(début_20e_s.)_-_par_Charles_Bétout,_Marcel_Multzer_-_btv1b10521860h_(02_of_18).jpg
     - wc:Othello_-_dix-sept_maquettes_de_costumes,_pour_une_reprise_non_identifiée_(début_20e_s.)_-_par_Charles_Bétout,_Marcel_Multzer_-_btv1b10521860h_(16_of_18).jpg
+
+  *<p style="color:hotpink; background-color:lavenderblush">* "Gowns, petticoats, nor caps, nor any petty exhibition..." These costume design sketches from the 1920s give us an idea of what the actresses would be wearing onstage! 
 
 **DESDEMONA**  </br>
 Beshrew me if I would do such a wrong </br>
