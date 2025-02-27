@@ -2,8 +2,8 @@
 
 COLOR CODE:
   *<p style="color:hotpink; background-color:lavenderblush">* SHAKESPEARE NOTES
-    *<p style="color:darkseagreen; background-color:honeydew">* WORDS & WORD PLAY
-    *<p style="color:mediumpurple; background-color:lavender">* THEMATIC NOTES
+    *<p style="color:darkseagreen; background-color:honeydew">* SYMBOLISM & WORD PLAY
+    *<p style="color:mediumpurple; background-color:lavender">* THEMATIC NOTES & ANALYSIS
 
 .ve-media wc:Chassériau_-_Othello_Suite,_No._8_(Act_4,_Scene_3_Desdemona_and_Emilia),_1976.19a.jpg width="70%"  right 
         
@@ -17,6 +17,8 @@ COLOR CODE:
   *Sing willow, willow, willow;* </br>
   *Her salt tears fell from her, and softened the </br>
   stones—* </br>
+
+ *<p style="color:darkseagreen; background-color:honeydew">* This is a song that Desdemona's maid, Barbary, sang while dying after her lover left her -- an example of doomed love. In this way, Barbary is a parallel character for Desdemona, who is seeming to foreshadow her own fate...
   
  Lay by these. </br>
 *Sing willow, willow, willow.*  </p>
@@ -47,10 +49,12 @@ It’s the wind. </br>
   
 .ve-media wc:John_Everett_Millais_-_Ophelia_-_Google_Art_Project.jpg width="50%"   
  
- *<p style="color:hotpink; background-color:lavenderblush">* A willow tree, or a "weeping willow," is a conventional symbol of grief and mourning, as well as dissapointed love. Shakespeare's use of this particular image foreshadows  Desdemona's death at the hands her of lover despite her devotion. Shakespeare has used this image before -- in *Hamlet,* Ophelia drowns herself surrounded by willow trees after her lover, Hamlet, rejects her.
+  *<p style="color:darkseagreen; background-color:honeydew">* A willow tree, or a "weeping willow," is a conventional symbol of grief and mourning, as well as dissapointed love. Shakespeare's use of this particular image foreshadows  Desdemona's death at the hands her of lover despite her devotion. Shakespeare has used this image before -- in ==*Hamlet,*=={Q41567} ==Ophelia=={Q1800888} drowns herself surrounded by willow trees after her lover, Hamlet, rejects her.
  
 </p> 'So, get thee gone. Good night. Mine eyes do itch; </br>
  Doth that bode weeping? </br>
+ 
+ *<p style="color:mediumpurple; background-color:lavender">*  Desdemona abruptly dismisses Emilia, perhaps because the song had touched too closely upon her actual life. This shows that Desdemona is conscious of her own predicament and also the control Othello's violence has over her entire life. It also highlights the close relationship between her and Emilia, as she feels comfortable being vulnerable in her prescence. 
 
 **EMILIA** </br>
  ’Tis neither here nor there.</br>
@@ -94,7 +98,7 @@ In [troth](https://www.shakespeareswords.com/Public/GlossaryHeadword.aspx?headwo
  In [troth](https://www.shakespeareswords.com/Public/GlossaryHeadword.aspx?headwordId=5555), I think I should, and undo ’t when I </br>
  had done ⟨it.⟩ Marry, I would not do such a thing for </br>
  a joint ring, nor for measures of lawn, nor for </br>
- gowns, petticoats, nor caps, nor any petty exhibition. </br>
+ gowns, ==petticoats=={Q1062620}, nor caps, nor any petty exhibition. </br>
  But for the whole world—⟨’Uds pity!⟩ Who </br>
  would not make her husband a [cuckold](https://www.shakespeareswords.com/Public/Glossary.aspx?Id=2786) to make </br>
  him a monarch? I should venture purgatory for ’t. </br>
@@ -104,7 +108,7 @@ In [troth](https://www.shakespeareswords.com/Public/GlossaryHeadword.aspx?headwo
     - wc:Othello_-_dix-sept_maquettes_de_costumes,_pour_une_reprise_non_identifiée_(début_20e_s.)_-_par_Charles_Bétout,_Marcel_Multzer_-_btv1b10521860h_(02_of_18).jpg
     - wc:Othello_-_dix-sept_maquettes_de_costumes,_pour_une_reprise_non_identifiée_(début_20e_s.)_-_par_Charles_Bétout,_Marcel_Multzer_-_btv1b10521860h_(16_of_18).jpg
 
-  *<p style="color:hotpink; background-color:lavenderblush">* "Gowns, petticoats, nor caps, nor any petty exhibition..." These costume design sketches from the 1920s give us an idea of what the actresses would be wearing onstage! 
+  *<p style="color:hotpink; background-color:lavenderblush">* "Gowns, petticoats, nor caps, nor any petty exhibition..." These costume design sketches from the 1920s give us an idea of what Desdemona would be wearing onstage! Her extravagant and lavish styles would contrast Emilia's more simple everyday outfits, which would further develop their juxtaposition as two types of women. 
 
 **DESDEMONA**  </br>
 Beshrew me if I would do such a wrong </br>
@@ -119,7 +123,9 @@ Why, the wrong is but a wrong i’ th’ world; </br>
 **DESDEMONA** </br>
 I do not think there is any such woman. </br>
 
-.ve-media wc:Desdemona_by_W.Paget.jpg width="70%" right
+   *<p style="color:mediumpurple; background-color:lavender">* This exchange specifically juxtaposes two types of women: Desdemona's naive purity (and the image of a perfect, submissive wife) and Emilia's pragmatic realism. It's also a juxtaposition of morality vs. ammorality, and idealized perceptions vs. reality. 
+
+.ve-media wc:Desdemona_by_T.Chasseriau_(Wrightsman_coll.).jpg width="70%" right
 
 **EMILIA** </br>
 Yes, a dozen; and as many to th’ vantage as</br>
@@ -147,4 +153,8 @@ The ills we do, their ills instruct us so. </br>
 **DESDEMONA** </br>
 Good night, good night. ⟨God⟩ me such uses send, </br>
 Not to pick bad from bad, but by bad mend. </br>
-
+    
+ *<p style="color:mediumpurple; background-color:lavender">* Shakespeare uses this scene to foreshadow the fact that in less than an hour, both of these women despite their contrasting morals will be dead at the hands of their husbands. It's an important scene because it highlights the voices of these women in an environment where their agency is still preserved, and their husbands will not be able to silence them.    
+    
+ *<p style="color:hotpink; background-color:lavenderblush">* Historically, this scene was actually cut from many productions! 
+    
