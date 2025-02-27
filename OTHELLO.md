@@ -6,7 +6,7 @@ COLOR CODE:
     *<p style="color:mediumpurple; background-color:lavender">* THEMATIC NOTES
 
 .ve-media wc:Chassériau_-_Othello_Suite,_No._8_(Act_4,_Scene_3_Desdemona_and_Emilia),_1976.19a.jpg width="70%"  right 
-
+        
  **DESDEMONA**, ⌜*singing*⌝ </br> 
  *The poor soul sat sighing by a sycamore tree,* </br>
  *Sing all a green ==willow.=={Q36050}* </br>
@@ -78,7 +78,7 @@ Why, would not you? </br>
  Nor I neither, by this heavenly light. </br>
  I might do ’t as well i’ th’ dark. </br>
  
- *<p style="color:darkseagreen; background-color:honeydew">* A play on words! Desdemona says she wouldn't cheat on Othello by day... and Emilia responds that she wouldn't either, but might in the night! 
+*<p style="color:darkseagreen; background-color:honeydew">* A play on words! Desdemona says she wouldn't cheat on Othello by day... and Emilia responds that she wouldn't either, but might in the night! 
 
 **DESDEMONA** </br>
 Wouldst thou do such a deed for all the world? </br>
