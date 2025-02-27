@@ -19,7 +19,7 @@ COLOR CODE:
   stones—* </br>
   
  Lay by these. </br>
-*Sing willow, willow, willow.*  <p>
+*Sing willow, willow, willow.*  </p>
 
 .ve-media https://www.youtube.com/watch?v=LFaUBvt2nPY autoplay start=126 end=180
     
@@ -30,7 +30,9 @@ Prithee hie thee! He’ll come anon. </br>
 *Sing all a green willow must be my garland*. </br>
 *Let nobody blame him, his scorn I approve.* </br>
 
-Nay, that’s not next. Hark, who is ’t that knocks? </br> 
+.ve-media wc:V-Urbanova-Othello_(3).jpg width="60%" right 
+
+Nay, that’s not next. Hark, who is ’t that knocks? </br>  
 
 *<p style="color:mediumpurple; background-color:lavender">* The way that Desdemona continues to interrupt her singing, and even messes up the lyrics ("Nay, that's not next"), humanizes her, because it shows that she is vulnerable and not immune to making mistakes. This undermines her image as a naive, untouchable, and idealized woman, and Shakespeare purposely interjects impefections to remind us that no woman has a single facet to her identity.
 
@@ -75,6 +77,8 @@ Why, would not you? </br>
 **EMILIA** </br>
  Nor I neither, by this heavenly light. </br>
  I might do ’t as well i’ th’ dark. </br>
+ 
+ *<p style="color:darkseagreen; background-color:honeydew">* A play on words! Desdemona says she wouldn't cheat on Othello by day... and Emilia responds that she wouldn't either, but might in the night! 
 
 **DESDEMONA** </br>
 Wouldst thou do such a deed for all the world? </br>
