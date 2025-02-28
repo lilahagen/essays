@@ -2,7 +2,7 @@
 
 COLOR CODE:
   *<p style="color:plum; background-color:snow">* SHAKESPEARE NOTES
-    *<p style="color:olive; background-color:beige">* SYMBOLISM & WORD PLAY
+    *<p style="color:seagreen; background-color:honeydew">* SYMBOLISM & WORD PLAY
     *<p style="color:lightsalmon; background-color:oldlace">* THEMATIC NOTES & ANALYSIS
 
 .ve-media wc:Chassériau_-_Othello_Suite,_No._8_(Act_4,_Scene_3_Desdemona_and_Emilia),_1976.19a.jpg width="70%"  right 
@@ -18,7 +18,7 @@ COLOR CODE:
   *Her salt tears fell from her, and softened the </br>
   stones—* </br>
 
- *<p style="color:olive; background-color:beige">* This is a song that Desdemona's maid, Barbary, sang while dying after her lover left her -- an example of doomed love. In this way, Barbary is a **parallel character** for Desdemona, who is seeming to foreshadow her own fate...
+*<p style="color:seagreen; background-color:honeydew">* This is a song that Desdemona's maid, Barbary, sang while dying after her lover left her -- an example of doomed love. In this way, Barbary is a **parallel character** for Desdemona, who is seeming to foreshadow her own fate...
   
  Lay by these. </br>
 *Sing willow, willow, willow.*  </p>
@@ -49,7 +49,7 @@ It’s the wind. </br>
   
 .ve-media wc:John_Everett_Millais_-_Ophelia_-_Google_Art_Project.jpg width="50%"   
  
-  *<p style="color:olive; background-color:beige">* A willow tree, or a "weeping willow," is a **conventional symbol of grief and mourning**, as well as **dissapointed love**. Shakespeare's use of this particular image **foreshadows** Desdemona's death at the hands her of lover despite her devotion. Shakespeare has used this image before -- in ==*Hamlet,*=={Q41567} ==Ophelia=={Q1800888} drowns herself surrounded by willow trees after her lover, Hamlet, rejects her.
+ *<p style="color:seagreen; background-color:honeydew">* A willow tree, or a "weeping willow," is a **conventional symbol of grief and mourning**, as well as **dissapointed love**. Shakespeare's use of this particular image **foreshadows** Desdemona's death at the hands her of lover despite her devotion. Shakespeare has used this image before -- in ==*Hamlet,*=={Q41567} ==Ophelia=={Q1800888} drowns herself surrounded by willow trees after her lover, Hamlet, rejects her.
  
 </p> 'So, get thee gone. Good night. Mine eyes do itch; </br>
  Doth that bode weeping? </br>
@@ -84,7 +84,7 @@ Why, would not you? </br>
  Nor I neither, by this heavenly light. </br>
  I might do ’t as well i’ th’ dark. </br>
  
-*<p style="color:olive; background-color:beige">* A play on words! Desdemona says she wouldn't cheat on Othello by **"heavenly light"** but Emilia plays on the use of this double meanining of this phrase to agree that she wouldn't cheat by day, but would by night!
+*<p style="color:seagreen; background-color:honeydew">* A play on words! Desdemona says she wouldn't cheat on Othello by **"heavenly light"** but Emilia plays on the use of this double meanining of this phrase to agree that she wouldn't cheat by day, but would by night!
 
 **DESDEMONA** </br>
 Wouldst thou do such a deed for all the world? </br>
@@ -154,7 +154,7 @@ The ills we do, their ills instruct us so. </br>
 
 *<p style="color:lightsalmon; background-color:oldlace">* Emilia's above passage serves as a "defense of wives against male double standards," arguing for **female sexual freedom as well as a woman's agency and the ability to control her own life.** Emilia argues that women should have the ability to express themselves in the same way that men can, because women can **"see, and smell, and have their palates both for sweet and sour, as husbands have."** Emilia refuses to have her voice silenced by men, and it's somber to remember that this is one of her last moments speaking her mind before her voice was silenced for good. 
 
- *<p style="color:olive; background-color:beige">* This speech uses a lot of colloquial diction through words like **"scant," "galls," "see and smell," and "sweet and sour,"** evoking passionate emotions and potrays Emilia's desperation to break free from restraint and censorship. 
+*<p style="color:seagreen; background-color:honeydew">* This speech uses a lot of colloquial diction through words like **"scant," "galls," "see and smell," and "sweet and sour,"** evoking passionate emotions and potrays Emilia's desperation to break free from restraint and censorship. 
 
 **DESDEMONA** </br>
 Good night, good night. ⟨God⟩ me such uses send, </br>
