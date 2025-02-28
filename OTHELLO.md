@@ -58,6 +58,8 @@ It’s the wind. </br>
 
 **EMILIA** </br>
  ’Tis neither here nor there.</br>
+ 
+.ve-media wc:Study-for-desdemona-s-death-song.jpg width="70%" right 
 
 **DESDEMONA** </br>
  I have heard it said so. O these men, these men! </br>
@@ -160,5 +162,5 @@ Not to pick bad from bad, but by bad mend. </br>
     
  *<p style="color:mediumpurple; background-color:lavender">* Shakespeare uses this scene to **foreshadow** the fact that in less than an hour, both of these women despite their contrasting morals will be dead at the hands of their husbands. It's an important scene because it highlights the voices of these women in an environment where their agency is still preserved, and their husbands will not be able to silence them.  ["When it is over, both of its temporarily liberated speakers are under sentence of death, condemned to a world of final silence."  ](https://www.jstor.org/stable/2870503?searchText=desdemona+othello&searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Ddesdemona%2Bothello%26so%3Drel&ab_segments=0%2Fbasic_search_gsv2%2Fcontrol&refreqid=fastly-default%3A2bb2d6114c144c6c4c5460119ee26750&seq=1)
     
- *<p style="color:hotpink; background-color:lavenderblush">* Historically, this scene was actually cut from many productions! 
+ *<p style="color:hotpink; background-color:lavenderblush">* Historically, this scene was actually cut from many productions! People thought that the scene failed to advance the plot and was boring, but the deliberate male choice to choose this specific scene to cut ["reveals an inclination to suppress and restrain female agency... the history of this scene in performance shows an unnerving disposition to still the female voice, which makes it all the more remarkable that Shakespeare wrote the scene at all."](https://www.jstor.org/stable/4625012?searchText=othello+act+4+scene+3&searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Dothello%2Bact%2B4%2Bscene%2B3%26so%3Drel&ab_segments=0%2Fbasic_search_gsv2%2Fcontrol&refreqid=fastly-default%3A75cc8b41f7767e13242f9bec76ca858f&seq=18) 
     
