@@ -1,9 +1,9 @@
 # OTHELLO ACT 4 SCENE 3
 
 COLOR CODE:
-  *<p style="color:hotpink; background-color:lavenderblush">* SHAKESPEARE NOTES
+  *<p style="color:thistle; background-color:snow">* SHAKESPEARE NOTES
     *<p style="color:darkseagreen; background-color:honeydew">* SYMBOLISM & WORD PLAY
-    *<p style="color:mediumpurple; background-color:lavender">* THEMATIC NOTES & ANALYSIS
+    *<p style="color:lightsalmon; background-color:oldlace">* THEMATIC NOTES & ANALYSIS
 
 .ve-media wc:Chassériau_-_Othello_Suite,_No._8_(Act_4,_Scene_3_Desdemona_and_Emilia),_1976.19a.jpg width="70%"  right 
         
@@ -25,7 +25,7 @@ COLOR CODE:
 
 .ve-media https://www.youtube.com/watch?v=LFaUBvt2nPY autoplay start=126 end=180
     
-  *<p style="color:hotpink; background-color:lavenderblush">* The willow song is an Elizabethan folk song, originally published in 1583 in a book of lute music. The original song was about a man who dies because of his lover's betrayal, but Shakespeare changed the victim of the song from a man to a woman.
+  *<p style="color:thistle; background-color:snow">* The willow song is an Elizabethan folk song, originally published in 1583 in a book of lute music. The original song was about a man who dies because of his lover's betrayal, but Shakespeare changed the victim of the song from a man to a woman.
 
 Prithee hie thee! He’ll come anon. </br>
 
@@ -36,7 +36,7 @@ Prithee hie thee! He’ll come anon. </br>
 
 Nay, that’s not next. Hark, who is ’t that knocks? </br>  
 
-*<p style="color:mediumpurple; background-color:lavender">* The way that Desdemona continues to interrupt her singing, and even messes up the lyrics ("Nay, that's not next"), humanizes her, because it shows that she is vulnerable and not immune to making mistakes. This undermines her image as a **naive, untouchable, and idealized woman**, and Shakespeare purposely interjects impefections to remind us that no woman has a single facet to her identity.
+   *<p style="color:lightsalmon; background-color:oldlace">* The way that Desdemona continues to interrupt her singing, and even messes up the lyrics ("Nay, that's not next"), humanizes her, because it shows that she is vulnerable and not immune to making mistakes. This undermines her image as a **naive, untouchable, and idealized woman**, and Shakespeare purposely interjects impefections to remind us that no woman has a single facet to her identity.
 
 **EMILIA** </br> 
 It’s the wind. </br>
@@ -54,7 +54,7 @@ It’s the wind. </br>
 </p> 'So, get thee gone. Good night. Mine eyes do itch; </br>
  Doth that bode weeping? </br>
  
- *<p style="color:mediumpurple; background-color:lavender">*  Desdemona abruptly dismisses Emilia, perhaps because the song had touched too closely upon her actual life. This shows that Desdemona is conscious of her own predicament and also the control Othello's violence has over her entire life. It also highlights the close relationship between her and Emilia, as she feels comfortable being vulnerable in her prescence. 
+   *<p style="color:coral; background-color:oldlace">* Desdemona abruptly dismisses Emilia, perhaps because the song had touched too closely upon her actual life. This shows that Desdemona is conscious of her own predicament and also the control Othello's violence has over her entire life. It also highlights the close relationship between her and Emilia, as she feels comfortable being vulnerable in her prescence. 
 
 **EMILIA** </br>
  ’Tis neither here nor there.</br>
@@ -110,7 +110,7 @@ In [troth](https://www.shakespeareswords.com/Public/GlossaryHeadword.aspx?headwo
     - wc:Othello_-_dix-sept_maquettes_de_costumes,_pour_une_reprise_non_identifiée_(début_20e_s.)_-_par_Charles_Bétout,_Marcel_Multzer_-_btv1b10521860h_(02_of_18).jpg
     - wc:Othello_-_dix-sept_maquettes_de_costumes,_pour_une_reprise_non_identifiée_(début_20e_s.)_-_par_Charles_Bétout,_Marcel_Multzer_-_btv1b10521860h_(16_of_18).jpg
 
-  *<p style="color:hotpink; background-color:lavenderblush">* "Gowns, petticoats, nor caps, nor any petty exhibition..." These costume design sketches from the 1920s give us an idea of what Desdemona would be wearing onstage! Her extravagant and lavish styles would contrast Emilia's more simple everyday outfits, which would further develop their juxtaposition as two types of women. 
+  *<p style="color:thistle; background-color:snow">* "Gowns, petticoats, nor caps, nor any petty exhibition..." These costume design sketches from the 1920s give us an idea of what Desdemona would be wearing onstage! Her extravagant and lavish styles would contrast Emilia's more simple everyday outfits, which would further develop their juxtaposition as two types of women. 
 
 **DESDEMONA**  </br>
 Beshrew me if I would do such a wrong </br>
@@ -125,7 +125,7 @@ Why, the wrong is but a wrong i’ th’ world; </br>
 **DESDEMONA** </br>
 I do not think there is any such woman. </br>
 
-   *<p style="color:mediumpurple; background-color:lavender">* This exchange specifically juxtaposes two types of women: **Desdemona's naive purity** (and the image of a perfect, submissive wife) and E**milia's pragmatic realism**. It's also a juxtaposition of **morality vs. ammorality, and idealized perceptions vs. reality. **
+   *<p style="color:lightsalmon; background-color:oldlace">* This exchange specifically juxtaposes two types of women: **Desdemona's naive purity** (and the image of a perfect, submissive wife) and E**milia's pragmatic realism**. It's also a juxtaposition of **morality vs. ammorality, and idealized perceptions vs. reality. **
 
 .ve-media wc:Desdemona_by_T.Chasseriau_(Wrightsman_coll.).jpg width="70%" right
 
@@ -152,7 +152,7 @@ But I do think it is their husbands’ faults </br>
  Then let them use us well. Else let them know, </br>
 The ills we do, their ills instruct us so. </br>
 
-*<p style="color:mediumpurple; background-color:lavender">* Emilia's above passage serves as a "defense of wives against male double standards," arguing for **female sexual freedom as well as a woman's agency and the ability to control her own life.** Emilia argues that women should have the ability to express themselves in the same way that men can, because women can **"see, and smell, and have their palates both for sweet and sour, as husbands have."** Emilia refuses to have her voice silenced by men, and it's somber to remember that this is one of her last moments speaking her mind before her voice was silenced for good. 
+*<p style="color:lightsalmon; background-color:oldlace">* Emilia's above passage serves as a "defense of wives against male double standards," arguing for **female sexual freedom as well as a woman's agency and the ability to control her own life.** Emilia argues that women should have the ability to express themselves in the same way that men can, because women can **"see, and smell, and have their palates both for sweet and sour, as husbands have."** Emilia refuses to have her voice silenced by men, and it's somber to remember that this is one of her last moments speaking her mind before her voice was silenced for good. 
 
  *<p style="color:darkseagreen; background-color:honeydew">* This speech uses a lot of colloquial diction through words like **"scant," "galls," "see and smell," and "sweet and sour,"** evoking passionate emotions and potrays Emilia's desperation to break free from restraint and censorship. 
 
@@ -160,7 +160,7 @@ The ills we do, their ills instruct us so. </br>
 Good night, good night. ⟨God⟩ me such uses send, </br>
 Not to pick bad from bad, but by bad mend. </br>
     
- *<p style="color:mediumpurple; background-color:lavender">* Shakespeare uses this scene to **foreshadow** the fact that in less than an hour, both of these women despite their contrasting morals will be dead at the hands of their husbands. It's an important scene because it highlights the voices of these women in an environment where their agency is still preserved, and their husbands will not be able to silence them.  ["When it is over, both of its temporarily liberated speakers are under sentence of death, condemned to a world of final silence."  ](https://www.jstor.org/stable/2870503?searchText=desdemona+othello&searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Ddesdemona%2Bothello%26so%3Drel&ab_segments=0%2Fbasic_search_gsv2%2Fcontrol&refreqid=fastly-default%3A2bb2d6114c144c6c4c5460119ee26750&seq=1)
+ *<p style="color:lightsalmon; background-color:oldlace">* Shakespeare uses this scene to **foreshadow** the fact that in less than an hour, both of these women despite their contrasting morals will be dead at the hands of their husbands. It's an important scene because it highlights the voices of these women in an environment where their agency is still preserved, and their husbands will not be able to silence them.  ["When it is over, both of its temporarily liberated speakers are under sentence of death, condemned to a world of final silence."  ](https://www.jstor.org/stable/2870503?searchText=desdemona+othello&searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Ddesdemona%2Bothello%26so%3Drel&ab_segments=0%2Fbasic_search_gsv2%2Fcontrol&refreqid=fastly-default%3A2bb2d6114c144c6c4c5460119ee26750&seq=1)
     
- *<p style="color:hotpink; background-color:lavenderblush">* Historically, this scene was actually cut from many productions! People thought that the scene failed to advance the plot and was boring, but the deliberate male choice to choose this specific scene to cut ["reveals an inclination to suppress and restrain female agency... the history of this scene in performance shows an unnerving disposition to still the female voice, which makes it all the more remarkable that Shakespeare wrote the scene at all."](https://www.jstor.org/stable/4625012?searchText=othello+act+4+scene+3&searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Dothello%2Bact%2B4%2Bscene%2B3%26so%3Drel&ab_segments=0%2Fbasic_search_gsv2%2Fcontrol&refreqid=fastly-default%3A75cc8b41f7767e13242f9bec76ca858f&seq=18) 
+*<p style="color:thistle; background-color:snow">* Historically, this scene was actually cut from many productions! People thought that the scene failed to advance the plot and was boring, but the deliberate male choice to choose this specific scene to cut ["reveals an inclination to suppress and restrain female agency... the history of this scene in performance shows an unnerving disposition to still the female voice, which makes it all the more remarkable that Shakespeare wrote the scene at all."](https://www.jstor.org/stable/4625012?searchText=othello+act+4+scene+3&searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Dothello%2Bact%2B4%2Bscene%2B3%26so%3Drel&ab_segments=0%2Fbasic_search_gsv2%2Fcontrol&refreqid=fastly-default%3A75cc8b41f7767e13242f9bec76ca858f&seq=18) 
     
