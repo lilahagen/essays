@@ -18,7 +18,7 @@ COLOR CODE:
   *Her salt tears fell from her, and softened the </br>
   stones—* </br>
 
- *<p style="color:darkseagreen; background-color:honeydew">* This is a song that Desdemona's maid, Barbary, sang while dying after her lover left her -- an example of doomed love. In this way, Barbary is a parallel character for Desdemona, who is seeming to foreshadow her own fate...
+ *<p style="color:darkseagreen; background-color:honeydew">* This is a song that Desdemona's maid, Barbary, sang while dying after her lover left her -- an example of doomed love. In this way, Barbary is a **parallel character** for Desdemona, who is seeming to foreshadow her own fate...
   
  Lay by these. </br>
 *Sing willow, willow, willow.*  </p>
@@ -36,7 +36,7 @@ Prithee hie thee! He’ll come anon. </br>
 
 Nay, that’s not next. Hark, who is ’t that knocks? </br>  
 
-*<p style="color:mediumpurple; background-color:lavender">* The way that Desdemona continues to interrupt her singing, and even messes up the lyrics ("Nay, that's not next"), humanizes her, because it shows that she is vulnerable and not immune to making mistakes. This undermines her image as a naive, untouchable, and idealized woman, and Shakespeare purposely interjects impefections to remind us that no woman has a single facet to her identity.
+*<p style="color:mediumpurple; background-color:lavender">* The way that Desdemona continues to interrupt her singing, and even messes up the lyrics ("Nay, that's not next"), humanizes her, because it shows that she is vulnerable and not immune to making mistakes. This undermines her image as a **naive, untouchable, and idealized woman**, and Shakespeare purposely interjects impefections to remind us that no woman has a single facet to her identity.
 
 **EMILIA** </br> 
 It’s the wind. </br>
@@ -49,7 +49,7 @@ It’s the wind. </br>
   
 .ve-media wc:John_Everett_Millais_-_Ophelia_-_Google_Art_Project.jpg width="50%"   
  
-  *<p style="color:darkseagreen; background-color:honeydew">* A willow tree, or a "weeping willow," is a conventional symbol of grief and mourning, as well as dissapointed love. Shakespeare's use of this particular image foreshadows  Desdemona's death at the hands her of lover despite her devotion. Shakespeare has used this image before -- in ==*Hamlet,*=={Q41567} ==Ophelia=={Q1800888} drowns herself surrounded by willow trees after her lover, Hamlet, rejects her.
+  *<p style="color:darkseagreen; background-color:honeydew">* A willow tree, or a "weeping willow," is a **conventional symbol of grief and mourning**, as well as **dissapointed love**. Shakespeare's use of this particular image **foreshadows** Desdemona's death at the hands her of lover despite her devotion. Shakespeare has used this image before -- in ==*Hamlet,*=={Q41567} ==Ophelia=={Q1800888} drowns herself surrounded by willow trees after her lover, Hamlet, rejects her.
  
 </p> 'So, get thee gone. Good night. Mine eyes do itch; </br>
  Doth that bode weeping? </br>
@@ -64,7 +64,7 @@ It’s the wind. </br>
  Dost thou in conscience think—tell me, Emilia— </br>
  That there be women do abuse their husbands </br>
  In such gross kind? </br>
-
+ 
 **EMILIA** </br>
 There be some such, no </br>
  question. </br>
@@ -82,7 +82,7 @@ Why, would not you? </br>
  Nor I neither, by this heavenly light. </br>
  I might do ’t as well i’ th’ dark. </br>
  
-*<p style="color:darkseagreen; background-color:honeydew">* A play on words! Desdemona says she wouldn't cheat on Othello by day... and Emilia responds that she wouldn't either, but might in the night! 
+*<p style="color:darkseagreen; background-color:honeydew">* A play on words! Desdemona says she wouldn't cheat on Othello by **"heavenly light"** but Emilia plays on the use of this double meanining of this phrase to agree that she wouldn't cheat by day, but would by night!
 
 **DESDEMONA** </br>
 Wouldst thou do such a deed for all the world? </br>
@@ -123,7 +123,7 @@ Why, the wrong is but a wrong i’ th’ world; </br>
 **DESDEMONA** </br>
 I do not think there is any such woman. </br>
 
-   *<p style="color:mediumpurple; background-color:lavender">* This exchange specifically juxtaposes two types of women: Desdemona's naive purity (and the image of a perfect, submissive wife) and Emilia's pragmatic realism. It's also a juxtaposition of morality vs. ammorality, and idealized perceptions vs. reality. 
+   *<p style="color:mediumpurple; background-color:lavender">* This exchange specifically juxtaposes two types of women: **Desdemona's naive purity** (and the image of a perfect, submissive wife) and E**milia's pragmatic realism**. It's also a juxtaposition of **morality vs. ammorality, and idealized perceptions vs. reality. **
 
 .ve-media wc:Desdemona_by_T.Chasseriau_(Wrightsman_coll.).jpg width="70%" right
 
@@ -150,11 +150,15 @@ But I do think it is their husbands’ faults </br>
  Then let them use us well. Else let them know, </br>
 The ills we do, their ills instruct us so. </br>
 
+*<p style="color:mediumpurple; background-color:lavender">* Emilia's above passage serves as a "defense of wives against male double standards," arguing for **female sexual freedom as well as a woman's agency and the ability to control her own life.** Emilia argues that women should have the ability to express themselves in the same way that men can, because women can **"see, and smell, and have their palates both for sweet and sour, as husbands have."** Emilia refuses to have her voice silenced by men, and it's somber to remember that this is one of her last moments speaking her mind before her voice was silenced for good. 
+
+ *<p style="color:darkseagreen; background-color:honeydew">* This speech uses a lot of colloquial diction through words like **"scant," "galls," "see and smell," and "sweet and sour,"** evoking passionate emotions and potrays Emilia's desperation to break free from restraint and censorship. 
+
 **DESDEMONA** </br>
 Good night, good night. ⟨God⟩ me such uses send, </br>
 Not to pick bad from bad, but by bad mend. </br>
     
- *<p style="color:mediumpurple; background-color:lavender">* Shakespeare uses this scene to foreshadow the fact that in less than an hour, both of these women despite their contrasting morals will be dead at the hands of their husbands. It's an important scene because it highlights the voices of these women in an environment where their agency is still preserved, and their husbands will not be able to silence them.    
+ *<p style="color:mediumpurple; background-color:lavender">* Shakespeare uses this scene to **foreshadow** the fact that in less than an hour, both of these women despite their contrasting morals will be dead at the hands of their husbands. It's an important scene because it highlights the voices of these women in an environment where their agency is still preserved, and their husbands will not be able to silence them.  ["When it is over, both of its temporarily liberated speakers are under sentence of death, condemned to a world of final silence."  ](https://www.jstor.org/stable/2870503?searchText=desdemona+othello&searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Ddesdemona%2Bothello%26so%3Drel&ab_segments=0%2Fbasic_search_gsv2%2Fcontrol&refreqid=fastly-default%3A2bb2d6114c144c6c4c5460119ee26750&seq=1)
     
  *<p style="color:hotpink; background-color:lavenderblush">* Historically, this scene was actually cut from many productions! 
     
